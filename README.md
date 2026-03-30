@@ -4,8 +4,7 @@ This repository provides supplementary figures and tables referenced in the ICML
 
 ## Contents
 
-- Figures used to support additional experimental results
-- Tables with extended sensitivity analysis
+- Supplementary figures and tables (see [PDF](./Fig/rebuttalfigures.pdf))
 
 ## Notes
 
