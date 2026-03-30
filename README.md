@@ -4,7 +4,7 @@ This repository provides supplementary figures and tables referenced in the ICML
 
 ## Contents
 
-- Supplementary figures and tables (see [Download PDF](./Fig/rebuttalfigures.pdf))
+- Supplementary figures and tables (see [Download PDF](https://anonymous.4open.science/r/icml_2026_rebuttal-75E7/Fig/rebuttalfigures.pdf))
 
 ## Notes
 
